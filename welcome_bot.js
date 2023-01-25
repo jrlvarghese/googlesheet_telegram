@@ -20,7 +20,7 @@ var webAppUrl = "paste_webapp_Url";
 
 
 // spreadsheet id for the target sheet
-sheetId = "1VorXqtmyIw8kG_rEqjeJlIscB84M7GYKreMCjHmSPW8";
+sheetId = "paste_sheet_id";
 
 function getMe() {
   var response = UrlFetchApp.fetch(url + "/getMe");
